@@ -1,0 +1,27 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 80vw;
+  margin: 0 auto;
+  height: 100vh;
+}
+.shop {
+  width: 50%;
+  position: relative;
+  margin: 0 auto;
+}
+
+.shop img {
+  width: 100%;
+}
+img.slider {
+  position: absolute;
+  bottom: 147px;
+  width: 181px;
+  height: 86px;
+  right: 96px;
+}
